@@ -1,0 +1,9 @@
+{
+  "account"     : "account",
+  "user"        : "user",
+  "password"    : "$password!",
+  "role"        : "ACCOUNTADMIN",
+  "warehouse"   : "COMPUTE_WH",
+  "database"    : "SNOWPARK_OKERA_QUICKSTART",
+  "schema"      : "MEDICAL"
+}
