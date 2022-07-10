@@ -21,5 +21,7 @@ conda activate snowpark_okera_quickstart
 name is from jupyter_env.yml
 ~~~
 python -m ipykernel install --user --name=snowpark_okera_quickstart
+~~~
+~~~
 jupyter notebook
 ~~~
